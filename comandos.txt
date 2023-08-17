@@ -1,33 +1,4 @@
-    1  git i
-    2  git init
-    3  git status
-    4  git add .
-    5  git commit -m "Nuevo Proyecto"
-    6  git config --global user.email juankalzateb@hotmail.com
-    7  git config --global user.name jcalzateb
-    8  git commit -m "Nuevo Proyecto"
-    9  git branch -M main
-   10  git remote add origin https://github.com/jcalzateb/Practica.git
-   11  gi push -u origin main
-   12  git push -u origin main
-   13  git push -u origin main
-   14  git push 
-   15  git push -u origin main
-   16  git remote add origin https://github.com/jcalzateb/Practica.git
-   17  git push -u origin main
-   18  git clone https://github.com/DilsaBarrientos/Git-ICESI.git
-   19  git clone https://github.com/jcalzateb/Git-ICESI.git
-   20  cd Git-ICESI
-   21  npm i
-   22  code .
-   23  git add .
-   24  git status
-   25  git commit -m "Se organizo los parrafos del cuento"
-   26  git push 
-   27  git add .
-   28  git status
-   29  git commit -m "Se arreglaron los errores ortograficos"
-   30  git push
+...
    31  cd desktop
    32  mkdir 16-08-JuanAlzate
    33  cd 16-08-JuanAlzate
@@ -38,8 +9,7 @@
    38  touch index.html
    39  git add README.md
    40  git add .
-   41* 
-"
+   41  git commit -m "commit 01 de JuanAlzate"
    42  git branch -M main
    43  git remote add origin https://github.com/jcalzateb/16-08-JuanAlzate.git
    44  git push -u origin main
